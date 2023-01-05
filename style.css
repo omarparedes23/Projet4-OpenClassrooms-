@@ -799,18 +799,24 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    /*background: #F3976C;*/
+    /*background: #F3976C;
     background: grey;
+    */
+    
+    background: #505050;
     color: #FFFFFF!important;
 
 }
 
 .btn-atomic-tangerine:hover {
     /*
-    background: #c27956!important;
+    
     color: #FFFFFF!important;    
+    background: #c27956!important;
+    
     */
     background: #fcac1b !important;
+    
     color: #313030 !important;
     border: solid 2px white;    
 }
